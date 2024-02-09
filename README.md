@@ -10,9 +10,9 @@
 🚀 I believe in the power of collaboration and open source. Let's learn and grow together!
 
 ### 📫 How to reach me:
-- Twitter: [mouadMRX1](https://twitter.com/mouadMRX1)
-- LinkedIn: [Mouad Kimdil](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/)
-- Instagram: [mouad_kimdil](https://www.instagram.com/mouad_kimdil/)
+[![Twitter](https://img.shields.io/twitter/follow/mouadMRX1?style=social)](https://twitter.com/mouadMRX1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouad%20Kimdil-blue)](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/)
+[![Instagram](https://img.shields.io/badge/Instagram-mouad__kimdil-orange)](https://www.instagram.com/mouad_kimdil/)
 
 ### 💼 My experience:
 - Worked on projects using C and Python.
