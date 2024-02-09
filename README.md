@@ -37,3 +37,8 @@
 - Worked on projects using C and Python.
 
 Feel free to explore my repositories, and let's connect! 🚀
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-username&theme=dark&background=000000)](https://git.io/streak-stats)
