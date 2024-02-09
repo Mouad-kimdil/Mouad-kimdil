@@ -11,13 +11,13 @@
 
 ### 📫 How to reach me:
 <a href="https://twitter.com/mouadMRX1">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://example.com/twitter_logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://example.com/linkedin_logo.png" />
 </a>
 <a href="https://www.instagram.com/mouad_kimdil/">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://example.com/instagram_logo.png" />
 </a>
 
 <br />
