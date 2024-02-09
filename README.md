@@ -10,12 +10,9 @@
 🚀 I believe in the power of collaboration and open source. Let's learn and grow together!
 
 ### 📫 How to reach me:
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/mouadMRX1)
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/)
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />](https://www.instagram.com/mouad_kimdil/)
-
-<br><br>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://example.com/x) <!-- Replace "https://example.com/x" with the actual URL -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mouad_kimdil/)
 
 ### 💼 My experience:
 - Worked on projects using C and Python.
