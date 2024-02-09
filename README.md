@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm Mouad Kimdil
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 🌱 I'm currently a student at 1337 school, a part of the 42 network, where I'm passionately diving into the world of coding.
 
 👨‍💻 I'm a learner at heart, always enthusiastic about acquiring new skills. Currently, I'm honing my skills in:
