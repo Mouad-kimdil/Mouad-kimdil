@@ -25,6 +25,8 @@
 - C language
 - C++ language
 - Python language
+- HTML
+- CSS
 
 🚀 I believe in the power of collaboration and open source. Let's learn and grow together!
 
