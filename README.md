@@ -27,6 +27,7 @@
 - Python language
 - HTML
 - CSS
+- java script
 
 🚀 I believe in the power of collaboration and open source. Let's learn and grow together!
 
