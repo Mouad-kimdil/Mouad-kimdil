@@ -28,6 +28,7 @@
 - HTML
 - CSS
 - java script
+- Shell
 
 🚀 I believe in the power of collaboration and open source. Let's learn and grow together!
 
