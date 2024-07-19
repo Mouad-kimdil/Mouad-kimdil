@@ -13,6 +13,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Hi there! 👋 I'm Mouad Kimdil
 
 I'm a passionate coding enthusiast, currently studying at **1337 Coding School** (part of the 42 network) in Morocco. I'm on an exciting journey to dive into the world of programming and constantly expand my knowledge.
