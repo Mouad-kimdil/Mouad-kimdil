@@ -46,7 +46,7 @@ Feel free to explore my repositories and let's collaborate! 🚀
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=radical&hide_border=true&card_width=840" alt="Top Languages" height="200" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=radical&hide_border=true&card_width=750" alt="Top Languages" height="200" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Mouad-kimdil&show_icons=true&theme=radical&hide_border=true&card_width=840" alt="GitHub Stats" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouad-kimdil&theme=radical&hide_border=true&card_width=840" alt="GitHub Streak" />
 </div>
