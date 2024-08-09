@@ -49,5 +49,6 @@ Feel free to explore my repositories and let's collaborate! 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=Mouad-kimdil&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouad-kimdil&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=radical" alt="Top Languages" />
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
