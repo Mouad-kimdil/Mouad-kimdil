@@ -52,4 +52,7 @@ Feel free to explore my repositories and let's collaborate! 🚀
 </div>
 <hr>
 
-![Snake animation](https://github.com/Mouad-kimdil/Mouad-kimdil/blob/main/.github/workflows/github-user-contribution.svg)
+<center>
+  
+  ![Snake animation](https://github.com/Mouad-kimdil/Mouad-kimdil/blob/main/.github/workflows/github-user-contribution.svg)
+</center>
