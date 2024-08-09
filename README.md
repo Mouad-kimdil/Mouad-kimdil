@@ -51,4 +51,4 @@ Feel free to explore my repositories and let's collaborate! 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mouad-kimdil/Mouad-kimdil/blob/main/.github/workflows/github-user-contribution.svg)
