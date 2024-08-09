@@ -48,7 +48,7 @@ Feel free to explore my repositories and let's collaborate! 🚀
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=radical" alt="Top Languages" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=Mouad-kimdil&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouad-kimdil&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouad-kimdil&theme=radical&hide_border=true&width=640" alt="GitHub Streak" />
 </div>
 
 ![Snake animation](https://github.com/Mouad-kimdil/Mouad-kimdil/blob/main/.github/workflows/github-user-contribution.svg)
