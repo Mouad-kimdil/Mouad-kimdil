@@ -49,9 +49,3 @@ Feel free to explore my repositories and let's collaborate! 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=Mouad-kimdil&show_icons=true&theme=radical&hide_border=true&card_width=840" alt="GitHub Stats" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouad-kimdil&theme=radical&hide_border=true&card_width=840" alt="GitHub Streak" />
 </div>
-<hr>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Mouad-kimdil/Mouad-kimdil/blob/main/.github/workflows/github-user-contribution.svg)
-</div>
