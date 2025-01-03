@@ -28,7 +28,7 @@ I'm a passionate coding enthusiast, currently studying at **1337 Coding School**
 
 💻 **Experience**
 
-- Worked on various projects using C and Python
+- Worked on various projects using C and Python and rust
 
 🌱 I'm a lifelong learner, always eager to acquire new skills and stay up-to-date with the latest technologies. I believe in the power of collaboration and open-source, and I'm actively seeking opportunities to contribute to exciting projects and learn from experienced developers.
 
