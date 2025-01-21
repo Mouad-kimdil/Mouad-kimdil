@@ -12,6 +12,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Mouad-kimdil/count.svg" alt="Visitor's Count" />
+</div>
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Mouad-kimdil)
