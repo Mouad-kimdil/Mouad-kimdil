@@ -17,10 +17,6 @@
   <img src="https://profile-counter.glitch.me/Mouad-kimdil/count.svg" alt="Visitor's Count" />
 </div>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=Mouad-kimdil)
-
 ### Hi there! 👋 I'm Mouad Kimdil
 
 I'm a passionate coding enthusiast, currently studying at **1337 Coding School** (part of the 42 network) in Morocco. I'm on an exciting journey to dive into the world of programming and constantly expand my knowledge.
