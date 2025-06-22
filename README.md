@@ -23,8 +23,7 @@ I'm a passionate coding enthusiast, currently studying at **1337 Coding School**
 
 🚀 **Skills and Technologies**
 
-- Programming Languages: C, C++, Python, rust and golang
-- Web Development: HTML, CSS
+- Programming Languages: C, C++, Python, Rust, JS, HTML, CSS and golang
 - Scripting: Shell
 
 💻 **Experience**
