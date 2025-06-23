@@ -40,15 +40,6 @@ I'm a passionate software developer and student at **1337 Coding School** (42 Ne
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🔥 Current Projects
-
-### 🌐 WebServer (C++)
-Currently developing a high-performance web server from scratch using C++. This project focuses on:
-- HTTP protocol implementation
-- Socket programming
-- Multi-threading and concurrency
-- Performance optimization
-
 ## 🎯 Core Strengths
 
 - **Self-Learning**: Quickly adapt to new technologies and frameworks
