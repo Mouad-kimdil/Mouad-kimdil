@@ -42,10 +42,10 @@ I'm a passionate software developer and student at **1337 Coding School** (42 Ne
 
 ## 🎯 Core Strengths
 
-- **Self-Learning**: Quickly adapt to new technologies and frameworks
-- **Fast Learning**: Efficiently absorb complex programming concepts
-- **Problem Solving**: Strong analytical thinking and debugging skills
-- **Team Collaboration**: Effective communication and teamwork experience
+- **Self-Learning**: Quickly adapt to new technologies and frameworks  
+- **Fast Learning**: Efficiently absorb complex programming concepts  
+- **Problem Solving**: Strong analytical thinking and debugging skills  
+- **Team Collaboration**: Effective communication and teamwork experience  
 
 ## 📊 GitHub Analytics
 
@@ -80,5 +80,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Mouad-kimdil/count.svg" alt="Visitor Count" />
+  <a href="https://hits.dwyl.com/Mouad-kimdil/Mouad-kimdil">
+    <img src="https://hits.dwyl.com/Mouad-kimdil/Mouad-kimdil.svg?style=for-the-badge&label=Visitors&color=0A0A0A&labelColor=FF00FF"/>
+  </a>
 </div>
