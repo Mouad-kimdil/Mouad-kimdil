@@ -80,6 +80,6 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mouad-kimdil&color=ffff00&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Mouad-kimdil&color=fff000&style=for-the-badge" alt="Visitor Count" />
 </div>
 
