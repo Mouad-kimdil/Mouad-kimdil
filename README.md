@@ -80,5 +80,6 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF00FF&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMouad-kimdil%2Freadme&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Mouad-kimdil&color=ff00ff&style=for-the-badge" alt="Visitor Count" />
 </div>
+
