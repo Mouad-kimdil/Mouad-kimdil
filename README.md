@@ -57,10 +57,6 @@ I'm a passionate software developer and student at **1337 Coding School** (42 Ne
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mouad-kimdil&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 42 School Journey
 
 As a student at 1337 (42 Network), I'm building a strong foundation in:
