@@ -1,7 +1,7 @@
 # Hey, I'm Mouad 👋
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/">
+  <a href="https://www.linkedin.com/in/mouad-kimdil/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
