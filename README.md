@@ -1,22 +1,29 @@
-<div align="center">
+# Hey, I'm Mouad 👋
 
-# Mouad Kimdil
-
-Backend developer focused on systems design, distributed architecture, and building things that hold up under pressure.
-Currently at **1337** (42 Network) — one of the most rigorous peer-to-peer engineering schools in the world.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-red-69.vercel.app/)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-seven-red-69.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </div>
+
+<br/>
+
+Backend developer at **1337** (42 Network), focused on systems design, distributed architecture, and building software that holds up under real conditions. I started from the ground up — writing shells and web servers in C — and worked my way into backend services, containerization, and observability stacks. I care about systems that are maintainable, well-observed, and built to last.
 
 ---
 
-## About
+## A bit more about me
 
-My work spans from low-level systems programming in C and C++ — building shells, web servers, and memory allocators from scratch — to backend services with Node.js, TypeScript, and Express. I've worked on full-stack infrastructure including containerization with Docker, monitoring with Prometheus and Grafana, and I'm actively expanding into distributed systems, Kafka, PostgreSQL, and Kubernetes.
-
-What drives me is the craft of building systems that are maintainable, observable, and built to last. The most important thing is to never give up and learn from your mistakes.
+- 🔧 &nbsp; Currently working with **Node.js**, **TypeScript**, **Express**, **Docker**, **PostgreSQL**, and **Kafka**
+- 📖 &nbsp; Deepening my understanding of **distributed systems**, **Kubernetes**, and **database internals**
+- 🛠️ &nbsp; Built a Unix shell in C, a web server in C++, and backend + infra for a full-scale web app
+- 📊 &nbsp; Set up production-grade monitoring with **Prometheus** and **Grafana**
+- 💬 &nbsp; Ask me about systems programming, backend architecture, or anything 1337/42
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/) or check my [portfolio](https://portfolio-seven-red-69.vercel.app/)
 
 ---
 
