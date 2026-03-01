@@ -7,7 +7,6 @@ Currently at **1337** (42 Network) — one of the most rigorous peer-to-peer eng
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-red-69.vercel.app/)
-[![X](https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Mouad)
 
 </div>
 
@@ -50,10 +49,6 @@ What drives me is the craft of building systems that are maintainable, observabl
 
 ## GitHub Stats
 
-<div align="center">
+![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouad-kimdil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouad-kimdil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Mouad-kimdil)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/Mouad-kimdil)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouad-kimdil&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
