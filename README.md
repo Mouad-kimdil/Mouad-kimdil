@@ -72,4 +72,4 @@ I focus on backend systems, networking, and building reliable software from low-
 
 - GitHub: https://github.com/Mouad-kimdil
 - Gmail: mouad.kimdil7@gmail.com
-- LinkedIn: [](https://www.linkedin.com/in/mouad-kimdil/)
+- LinkedIn: https://www.linkedin.com/in/mouad-kimdil/
