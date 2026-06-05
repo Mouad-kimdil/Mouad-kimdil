@@ -1,53 +1,74 @@
-# Hey, I'm Mouad 👋
+# Hi, I'm Mouad Kimdil
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mouad-kimdil/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mouad-kimdil.github.io/Me/">
-    <img src="https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</div>
+Backend software engineer from Morocco, currently studying at 1337 Coding School (42 Network).
 
-<br/>
-
-Backend developer at **1337** (42 Network), focused on systems design, distributed architecture, and building software that holds up under real conditions. I started from the ground up — writing shells and web servers in C — and worked my way into backend services, containerization, and observability stacks. I care about systems that are maintainable, well-observed, and built to last.
+I focus on backend systems, networking, and building reliable software from low-level fundamentals to production-ready services.
 
 ---
 
-## A bit more about me
+## About Me
 
-- 🔧 &nbsp; Currently working with **Node.js**, **TypeScript**, **Express**, **Docker**, **PostgreSQL**, and **Kafka**
-- 📖 &nbsp; Deepening my understanding of **distributed systems**, **Kubernetes**, and **database internals**
-- 🛠️ &nbsp; Built a Unix shell in C, a web server in C++, and backend + infra for a full-scale web app
-- 📊 &nbsp; Set up production-grade monitoring with **Prometheus** and **Grafana**
-- 💬 &nbsp; Ask me about systems programming, backend architecture, or anything 1337/42
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/mouad-kimdil-3ba2a6223/) or check my [portfolio](https://portfolio-seven-red-69.vercel.app/)
+- 🎓 Software Engineering student at 1337 (42 Network)
+- 🧠 Strong interest in backend systems, networking, and system design
+- 🔧 Experience building low-level systems in C/C++ (shell, web server, concurrency projects)
+- ☕ Currently working with Java and Spring Boot for backend development
+- 🐧 Comfortable working in Linux environments
+- 📦 Familiar with Docker and PostgreSQL
 
 ---
 
-## Stack
+## Technical Skills
 
 **Languages**
+- C, C++, Java, JavaScript, SQL
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Backend & Systems**
+- Spring Boot
+- REST APIs
+- HTTP/1.1 protocol
+- Socket programming
+- Concurrency & multithreading
+- Process management
 
-**Backend & Infrastructure**
+**Databases**
+- PostgreSQL
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+**Tools**
+- Linux
+- Docker
+- Git
 
-**Observability**
+---
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+## Projects
+
+### High-Performance Web Server (C++)
+- Built a custom HTTP/1.1 server from scratch
+- Implemented request parsing, routing, and response handling
+- Managed concurrent connections using epoll/kqueue
+- Designed configuration-driven server behavior
+
+### Minishell (C)
+- Developed a Unix shell similar to Bash
+- Implemented command parsing, pipes, and redirections
+- Handled process execution and environment variables
+
+### Dining Philosophers (C)
+- Implemented concurrency simulation using threads and mutexes
+- Solved synchronization and deadlock problems
+
+---
+
+## Current Focus
+
+- Spring Boot backend development
+- REST API design
+- Data structures and algorithms for interviews
+- System design fundamentals
+
+---
+
+## Contact
+
+- GitHub: https://github.com/Mouad-kimdil
+- LinkedIn: (add your link here)
