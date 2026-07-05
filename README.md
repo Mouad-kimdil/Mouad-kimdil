@@ -1,75 +1,96 @@
-# Hi, I'm Mouad Kimdil
+# Mouad Kimdil
 
-Backend software engineer from Morocco, currently studying at 1337 Coding School (42 Network).
-
-I focus on backend systems, networking, and building reliable software from low-level fundamentals to production-ready services.
+Backend Software Engineer
 
 ---
 
-## About Me
+## Profile
 
--  Software Engineering student at 1337 (42 Network)
--  Strong interest in backend systems, networking, and system design
--  Experience building low-level systems in C/C++ (shell, web server, concurrency projects)
--  Currently working with Java and Spring Boot for backend development
--  Comfortable working in Linux environments
--  Familiar with Docker and PostgreSQL
+Software engineering student from Morocco specializing in backend systems, distributed architectures, and system-level programming.
+
+Strong foundation in low-level programming (C/C++), networking concepts, and operating systems, combined with modern backend development using Java and Spring Boot.
+
+Focused on building scalable, reliable backend systems and understanding how software works from the operating system level up to application design.
+
+---
+
+## Core Expertise
+
+### Backend Engineering
+- Spring Boot
+- RESTful API design
+- Spring Data JPA / Hibernate
+- Transaction management
+- Microservice fundamentals
+
+### Systems & Networking
+- HTTP/1.1 protocol
+- Socket programming
+- Process management
+- Concurrency and multithreading
+- Operating system fundamentals
+
+### Databases
+- PostgreSQL
+- SQL optimization basics
+- Transaction concepts and isolation
+
+---
+
+## Systems Programming Experience
+
+### High-Performance HTTP Server (C++)
+Built a custom web server from scratch with support for HTTP/1.1.
+
+- Request parsing and response generation
+- Event-driven architecture using epoll/kqueue
+- Concurrent connection handling
+- Configuration-driven routing system
+
+---
+
+### Unix Shell Implementation (C)
+- Built a functional Unix shell similar to Bash
+- Command parsing and execution pipeline
+- Pipes, redirections, and environment variable handling
+- Process creation and synchronization
+
+---
+
+### Concurrency Simulation (C)
+- Dining philosophers problem
+- Thread synchronization using mutexes
+- Deadlock prevention strategies
 
 ---
 
 ## Technical Skills
 
-**Languages**
-- C, C++, Java, JavaScript, SQL
+Languages:
+C, C++, Java, JavaScript, SQL
 
-**Backend & Systems**
-- Spring Boot
-- REST APIs
-- HTTP/1.1 protocol
-- Socket programming
-- Concurrency & multithreading
-- Process management
+Backend:
+Spring Boot, Hibernate, REST APIs
 
-**Databases**
-- PostgreSQL
+Databases:
+PostgreSQL
 
-**Tools**
-- Linux
-- Docker
-- Git
+Tools:
+Linux, Docker, Git
 
 ---
 
-## Projects
+## Focus Areas
 
-### High-Performance Web Server (C++)
-- Built a custom HTTP/1.1 server from scratch
-- Implemented request parsing, routing, and response handling
-- Managed concurrent connections using epoll/kqueue
-- Designed configuration-driven server behavior
-
-### Minishell (C)
-- Developed a Unix shell similar to Bash
-- Implemented command parsing, pipes, and redirections
-- Handled process execution and environment variables
-
-### Dining Philosophers (C)
-- Implemented concurrency simulation using threads and mutexes
-- Solved synchronization and deadlock problems
-
----
-
-## Current Focus
-
-- Spring Boot backend development
-- REST API design
-- Data structures and algorithms for interviews
-- System design fundamentals
+- Backend system design
+- Distributed systems fundamentals
+- Database internals and optimization
+- Algorithms and data structures for interviews
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/Mouad-kimdil
-- Gmail: mouad.kimdil7@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mouad-kimdil/
+Email: mouad.kimdil7@gmail.com  
+LinkedIn: https://www.linkedin.com/in/mouad-kimdil  
+GitHub: https://github.com/Mouad-kimdil
