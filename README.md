@@ -8,12 +8,12 @@ I focus on backend systems, networking, and building reliable software from low-
 
 ## About Me
 
-- 🎓 Software Engineering student at 1337 (42 Network)
-- 🧠 Strong interest in backend systems, networking, and system design
-- 🔧 Experience building low-level systems in C/C++ (shell, web server, concurrency projects)
-- ☕ Currently working with Java and Spring Boot for backend development
-- 🐧 Comfortable working in Linux environments
-- 📦 Familiar with Docker and PostgreSQL
+-  Software Engineering student at 1337 (42 Network)
+-  Strong interest in backend systems, networking, and system design
+-  Experience building low-level systems in C/C++ (shell, web server, concurrency projects)
+-  Currently working with Java and Spring Boot for backend development
+-  Comfortable working in Linux environments
+-  Familiar with Docker and PostgreSQL
 
 ---
 
