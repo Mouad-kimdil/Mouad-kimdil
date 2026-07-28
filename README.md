@@ -20,6 +20,7 @@ Focused on building scalable, reliable backend systems and understanding how sof
 - Spring Boot
 - RESTful API design
 - Spring Data JPA / Hibernate
+- Query optimization: N+1 resolution, JOIN FETCH, EntityGraph, EXPLAIN ANALYZE
 - Transaction management
 - Microservice fundamentals
 
@@ -85,7 +86,7 @@ Linux, Docker, Git
 - Backend system design
 - Distributed systems fundamentals
 - Database internals and optimization
-- Algorithms and data structures for interviews
+- Concurrency and synchronization
 
 ---
 
