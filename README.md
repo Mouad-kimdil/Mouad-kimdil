@@ -1,97 +1,45 @@
 # Mouad Kimdil
 
-Backend Software Engineer
+Backend Engineer building Java/Spring Boot systems, with a low-level foundation in C/C++.
 
 ---
 
-## Profile
+## Currently
 
-Software engineering student from Morocco specializing in backend systems, distributed architectures, and system-level programming.
-
-Strong foundation in low-level programming (C/C++), networking concepts, and operating systems, combined with modern backend development using Java and Spring Boot.
-
-Focused on building scalable, reliable backend systems and understanding how software works from the operating system level up to application design.
+- Deepening backend expertise: query optimization, Spring Security (JWT), and framework internals.
+- Open to backend internship (PFE) and junior developer roles — remote, hybrid, or on-site.
 
 ---
 
-## Core Expertise
+## Featured Projects
 
-### Backend Engineering
-- Spring Boot
-- RESTful API design
-- Spring Data JPA / Hibernate
-- Query optimization: N+1 resolution, JOIN FETCH, EntityGraph, EXPLAIN ANALYZE
-- Transaction management
-- Microservice fundamentals
+### Order Management API — Java, Spring Boot, PostgreSQL
+Secured REST API with JWT authentication, role-based authorization, N+1 query resolution
+(JOIN FETCH, EntityGraph), and query plans validated with EXPLAIN ANALYZE on 100k+ records.
+→ [github.com/Mouad-kimdil/order-management-api](https://github.com/Mouad-kimdil/order-management-api)
 
-### Systems & Networking
-- HTTP/1.1 protocol
-- Socket programming
-- Process management
-- Concurrency and multithreading
-- Operating system fundamentals
+### Leets (ft_transcendence) — Node.js, Microservices
+Tech Lead on a 5-person team building a microservices social platform. Owned authentication
+(OAuth, JWT, 2FA) and DevOps/monitoring (Docker, Prometheus, Grafana).
+→ [github.com/Leets-lab/leets](https://github.com/Leets-lab/leets)
 
-### Databases
-- PostgreSQL
-- SQL optimization basics
-- Transaction concepts and isolation
-
----
-
-## Systems Programming Experience
-
-### High-Performance HTTP Server (C++)
-Built a custom web server from scratch with support for HTTP/1.1.
-
-- Request parsing and response generation
-- Event-driven architecture using epoll/kqueue
-- Concurrent connection handling
-- Configuration-driven routing system
-
----
-
-### Unix Shell Implementation (C)
-- Built a functional Unix shell similar to Bash
-- Command parsing and execution pipeline
-- Pipes, redirections, and environment variable handling
-- Process creation and synchronization
-
----
-
-### Concurrency Simulation (C)
-- Dining philosophers problem
-- Thread synchronization using mutexes
-- Deadlock prevention strategies
+**Systems programming foundations (C/C++):** an HTTP/1.1 server (sockets, epoll), a Unix
+shell (fork/execve/pipes/signals), and a multithreaded dining-philosophers simulation —
+low-level grounding in what backend frameworks abstract away. See pinned repos below.
 
 ---
 
 ## Technical Skills
 
-Languages:
-C, C++, Java, JavaScript, SQL
-
-Backend:
-Spring Boot, Hibernate, REST APIs
-
-Databases:
-PostgreSQL
-
-Tools:
-Linux, Docker, Git
-
----
-
-## Focus Areas
-
-- Backend system design
-- Distributed systems fundamentals
-- Database internals and optimization
-- Concurrency and synchronization
+**Languages:** Java 21, C, C++, SQL, JavaScript
+**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security (JWT)
+**Databases:** PostgreSQL — query optimization, N+1 resolution, EXPLAIN ANALYZE
+**Tools:** Git, Docker (multi-stage builds, Compose), Linux, Maven
 
 ---
 
 ## Contact
 
-Email: mouad.kimdil7@gmail.com  
-LinkedIn: https://www.linkedin.com/in/mouad-kimdil  
-GitHub: https://github.com/Mouad-kimdil
+Email: mouad.kimdil7@gmail.com
+LinkedIn: linkedin.com/in/mouad-kimdil
+GitHub: github.com/Mouad-kimdil
