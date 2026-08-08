@@ -32,8 +32,11 @@ low-level grounding in what backend frameworks abstract away. See pinned repos b
 ## Technical Skills
 
 **Languages:** Java 21, C, C++, SQL, JavaScript
+
 **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security (JWT)
+
 **Databases:** PostgreSQL — query optimization, N+1 resolution, EXPLAIN ANALYZE
+
 **Tools:** Git, Docker (multi-stage builds, Compose), Linux, Maven
 
 ---
