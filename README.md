@@ -7,7 +7,7 @@ Backend Engineer building Java/Spring Boot systems, with a low-level foundation 
 ## Currently
 
 - Deepening backend expertise: query optimization, Spring Security (JWT), and framework internals.
-- Open to backend internship (PFE) and junior developer roles — remote, hybrid, or on-site.
+- Open to junior backend developer roles — remote, hybrid, or on-site.
 
 ---
 
