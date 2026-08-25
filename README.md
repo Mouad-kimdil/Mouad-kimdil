@@ -45,6 +45,6 @@ low-level grounding in what backend frameworks abstract away. See pinned repos b
 
 Email: mouad.kimdil7@gmail.com
 
-LinkedIn: linkedin.com/in/mouad-kimdil
+LinkedIn: [linkedin.com/in/mouad-kimdil](https://mouad-kimdil.github.io/Me/)
 
 portfolio: [github.com/Mouad-kimdil](https://mouad-kimdil.github.io/Me/)
